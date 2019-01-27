@@ -1,4 +1,8 @@
 # ikkeheltpaa.net
+https://www.ikkeheltpaa.net/
 
-Kjører i bucket i Storage i Google Cloud Platform. 
-Test av GCP, oppretting av domener, html, javascript, react, Goland mm.
+Runs in a bucket in a Google Cloud Storage. 
+Test of hosting in GCP,domain handling, html, javascript, react, Golang.
+
+Domain handled by Namecheap
+SSL handled by GloudFlare 
